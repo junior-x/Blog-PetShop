@@ -1,5 +1,16 @@
-## BLOG / PETSHOP
+### 🦊 BLOG / PETSHOP
 
+
+V 0.0.2
+
+*Headers and links between pages working only with renders and if someone getlost a Friendly dogo comes :3*
+
+![Image of Blog](/scr/assets/img/petshop-v2.png)
+
+
+V 0.0.1
+
+*Implementation of sections for the reader*
 
 ![Image of Blog](/src/assets/img/petshop-v1.png)
 
