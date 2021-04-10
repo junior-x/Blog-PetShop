@@ -1,6 +1,14 @@
 ### 🦊 BLOG / PETSHOP
 
 
+v 0.0.3
+
+*Building post's from API and making then pretty with styles*
+
+![Image of Blog](/src/assets/img/petshop-v3.png)
+
+
+
 V 0.0.2
 
 *Headers and links between pages working only with renders and if someone getlost a Friendly dogo comes :3*
