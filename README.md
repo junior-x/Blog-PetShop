@@ -1,4 +1,4 @@
-## BLOG / PETSHOP
+## 🦊 BLOG / PETSHOP
 
 
 ![Image of Blog](/src/assets/images/petshop-v1.png)
